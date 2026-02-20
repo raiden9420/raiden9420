@@ -64,8 +64,8 @@ Beyond technical implementation, I excel in communication and presentation, brid
 <hr>
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Rudraksh Mahajan](https://www.linkedin.com/in/rudraksh-mahajan/) [cite: 2]
-* **Email:** rudraksh.r.mahajan@gmail.com [cite: 2]
+* **LinkedIn:** [Rudraksh Mahajan](https://www.linkedin.com/in/rudraksh-mahajan-7b1085153/)
+* **Email:** rudraksh.r.mahajan@gmail.com
 * **Portfolio:** *Currently seeking AIML Internships in Delhi NCR*
 
 <hr>
