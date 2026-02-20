@@ -5,7 +5,7 @@
 
 <hr>
 
-## 🚀 About Me
+## About Me
 I am a 3rd-year Bachelor of Technology student in Computer Science (Honors) at GLA University, specializing in Artificial Intelligence and Analytics. I thrive at the intersection of **Generative AI**, **RAG architectures**, and **Model Context Protocols (MCP)**. 
 
 Beyond technical implementation, I excel in communication and presentation, bridging the gap between complex backend architectures and impactful user experiences.
@@ -15,7 +15,7 @@ Beyond technical implementation, I excel in communication and presentation, brid
 
 <hr>
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 | Category | Skills |
 |--- |--- |
@@ -25,7 +25,7 @@ Beyond technical implementation, I excel in communication and presentation, brid
 
 <hr>
 
-## 🏆 Featured Projects
+## Featured Projects
 
 * **[Prospera](https://github.com/raiden9420/Prospera)**: An intelligent financial agent leveraging Gemini 2.5 Flash and the Model Context Protocol (MCP) to provide actionable insights across diverse investment portfolios.
   
@@ -37,7 +37,7 @@ Beyond technical implementation, I excel in communication and presentation, brid
 
 <hr>
 
-## 📈 Professional Experience
+## Professional Experience
 
 * **AIML Intern | [Sopra Steria](https://www.soprasteria.in/)** (June - August 2025)
     * Developed a streamlined **RAG tool** connecting private documents to Google Gemini AI.
@@ -49,7 +49,7 @@ Beyond technical implementation, I excel in communication and presentation, brid
 
 <hr>
 
-## 📜 Certifications & Leadership
+## Certifications & Leadership
 * **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/OHKE2YEF19HE)** – DeepLearning.AI.
 * **[Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/7C6PVBW7M66K)** – Google.
 * **AI Algorithm Development with Python** – Intel.
