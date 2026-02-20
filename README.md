@@ -44,7 +44,7 @@ Beyond technical implementation, I excel in communication and presentation, brid
     * Utilized **GroundX** for automated semantic retrieval and high-precision storage of complex file formats.
     * Implemented **Model Context Protocol (MCP)** to allow AI agents to plug into projects without custom glue code.
       
-* **Trainee | Astrea IT Services** (June - July 2025)
+* **Trainee | [Astrea IT Services](https://astreait.com/)** (June - July 2025)
     * Completed intensive training on the **Salesforce Cloud Computing** platform, focusing on architecture and administration.
 
 <hr>
