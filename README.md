@@ -10,7 +10,7 @@ I am a 3rd-year Bachelor of Technology student in Computer Science (Honors) at G
 
 Beyond technical implementation, I excel in communication and presentation, bridging the gap between complex backend architectures and impactful user experiences.
 
-- 🔭 **Currently working on:** **ProteinScope AI**, a comprehensive dashboard for protein analysis.
+- 🔭 **Currently working on:** **Protly**, a comprehensive dashboard for protein analysis.
 - ⚡ **Key Strength:** Expert in implementing **MCP** as a universal adapter for AI agents.
 
 <hr>
