@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Welcome to Rudraksh's Workspace </h1>
-  <p><b>Penultimate Year CS Student | AIML Specialist | Technical Communicator</b></p>
+  <p><b>Final Year CS Student | AIML Specialist | Technical Communicator</b></p>
 </div>
 
 <hr>
 
 ## About Me
-I am a 3rd-year Bachelor of Technology student in Computer Science (Honors) at GLA University, specializing in Artificial Intelligence and Analytics. I thrive at the intersection of **Generative AI**, **RAG architectures**, and **Model Context Protocols (MCP)**. 
+Specializing in Artificial Intelligence and Analytics. I thrive at the intersection of **Generative AI**, **RAG architectures**, and **Model Context Protocols (MCP)**. 
 
 Beyond technical implementation, I excel in communication and presentation, bridging the gap between complex backend architectures and impactful user experiences.
 
