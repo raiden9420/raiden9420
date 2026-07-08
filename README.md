@@ -10,7 +10,6 @@ Specializing in Artificial Intelligence and Analytics. I thrive at the intersect
 
 Beyond technical implementation, I excel in communication and presentation, bridging the gap between complex backend architectures and impactful user experiences.
 
-- 🔭 **Currently working on:** **Protly**, a comprehensive dashboard for protein analysis.
 
 <hr>
 
