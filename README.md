@@ -6,7 +6,9 @@
 <hr>
 
 ## About Me
-Specializing in Artificial Intelligence and Analytics. I thrive at the intersection of **Generative AI**, **RAG architectures**, and **Model Context Protocols (MCP)**. 
+Specializing in Artificial Intelligence and Analytics. I thrive at the intersection of **Generative AI**, **RAG architectures**, and **Model Context Protocols (MCP)** & **Deep Learning**. 
+
+I have significant experience in **rapid prototyping**, quickly transforming ideas into testable solutions, developing proof-of-concepts, and MVPs to validate ideas.
 
 Beyond technical implementation, I excel in communication and presentation, bridging the gap between complex backend architectures and impactful user experiences.
 
@@ -25,6 +27,8 @@ Beyond technical implementation, I excel in communication and presentation, brid
 
 ## Featured Projects
 
+* **[Protly](https://protly.vercel.app/)**: Protly is an end-to-end machine learning web platform that translates amino acid sequences into high-fidelity 3D protein models using Meta's ESM-2 language model. 
+
 * **[Prospera](https://github.com/raiden9420/Prospera)**: An intelligent financial agent leveraging Gemini 2.5 Flash and the Model Context Protocol (MCP) to provide actionable insights across diverse investment portfolios.
   
 * **[Emerge](https://github.com/raiden9420/Emerge)**: A hackathon-winning full-stack platform featuring an AI Career Coach and automated, interest-based course recommendations via YouTube Data API.
@@ -37,7 +41,12 @@ Beyond technical implementation, I excel in communication and presentation, brid
 
 ## Professional Experience
 
-* **AIML Intern | [Sopra Steria](https://www.soprasteria.in/)** (June - August 2025)
+* **Intern | [Deutsche Delekom Digital Labs](https://dtdl.in/)** (June 2026 - Present)
+    * Engineered a dynamic generation pipeline for a production AI chatbot, moving beyond standard text-based chat to render interactive UI components using **Agent-to-User Interface (A2UI)** framework.
+    * Integrated a **Small Language Model (SLM)** fallback mechanism to ensure seamless user experiences and high availability.
+    * Developed robust parsing capabilities to translate diverse system inputs (ranging from unstructured text to complex JSON) into actionable front-end components.
+
+* **Intern | [Sopra Steria](https://www.soprasteria.in/)** (June - August 2025)
     * Developed a streamlined **RAG tool** connecting private documents to Google Gemini AI.
     * Utilized **GroundX** for automated semantic retrieval and high-precision storage of complex file formats.
     * Implemented **Model Context Protocol (MCP)** to allow AI agents to plug into projects without custom glue code.
@@ -57,7 +66,6 @@ Beyond technical implementation, I excel in communication and presentation, brid
 ## 📫 Let's Connect!
 * **LinkedIn:** [Rudraksh Mahajan](https://www.linkedin.com/in/rudraksh-mahajan-7b1085153/)
 * **Email:** rudraksh.r.mahajan@gmail.com
-* **Portfolio:** *Currently seeking AIML Internships in Delhi NCR*
 
 <hr>
 
