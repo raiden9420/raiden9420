@@ -41,7 +41,7 @@ Beyond technical implementation, I excel in communication and presentation, brid
 
 ## Professional Experience
 
-* **Intern | [Deutsche Delekom Digital Labs](https://dtdl.in/)** (June 2026 - Present)
+* **Intern | [Deutsche Telekom Digital Labs](https://dtdl.in/)** (June 2026 - Present)
     * Engineered a dynamic generation pipeline for a production AI chatbot, moving beyond standard text-based chat to render interactive UI components using **Agent-to-User Interface (A2UI)** framework.
     * Integrated a **Small Language Model (SLM)** fallback mechanism to ensure seamless user experiences and high availability.
     * Developed robust parsing capabilities to translate diverse system inputs (ranging from unstructured text to complex JSON) into actionable front-end components.
